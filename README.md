@@ -6,9 +6,8 @@ Sometimes I don't remember with which service I authorized a certain site or if 
 ## The List
 - [Facebook](https://www.facebook.com/settings?tab=applications)
 - [GitHub](https://github.com/settings/applications)
-- [Google](https://security.google.com/settings/security/permissions)
-- [Google Plus](https://plus.google.com/apps)
+- [Google](https://myaccount.google.com/permissions)
 - [Instagram](https://instagram.com/accounts/manage_access/)
-- [LinkedIn](https://www.linkedin.com/secure/settings?userAgree=&goback=%2Enas_*1_*1_nav*4account*4sub*4nav*4settings_*1_*1)
+- [LinkedIn](https://www.linkedin.com/psettings/third-party-applications)
 - [Twitter](https://twitter.com/settings/applications)
 - [Wikipedia](https://www.wikipedia.org/wiki/Special:OAuthManageMyGrants)
