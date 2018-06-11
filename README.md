@@ -6,6 +6,7 @@ Sometimes I don't remember with which service I authorized a certain site or if 
 ## The List
 - [Facebook](https://www.facebook.com/settings?tab=applications)
 - [GitHub](https://github.com/settings/applications)
+- [GiLab](https://gitlab.com/profile/applications)
 - [Google](https://myaccount.google.com/permissions)
 - [Instagram](https://instagram.com/accounts/manage_access/)
 - [LinkedIn](https://www.linkedin.com/psettings/third-party-applications)
